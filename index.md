@@ -239,9 +239,11 @@ for more information.
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="{{ site.training_site }}">the Instructor Training Curriculum</a> for course material and sample schedule for a 2-day event.
+  Please see <a href="{{ site.training_site }}">the Instructor Training Curriculum</a> for course material.
 </p>
-
+<p>
+  Times in schedule below are for <strong>Mountain Daylight Time (UTC-6)</strong>.
+</p>
 
 <hr/>
 
